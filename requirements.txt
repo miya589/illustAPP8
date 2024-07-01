@@ -1,0 +1,5 @@
+﻿Pillow
+numpy==1.21.1
+opencv-python
+torch
+streamlit
